@@ -1,5 +1,4 @@
-<img width="1024" height="1536" alt="Lichen universe" src="https://github.com/user-attachments/assets/4c6c9176-15ea-4ac9-8095-b135615f48c7" />
-
+<img width="1024" height="1024" alt="Gemini_Generated_Image_qmjj8iqmjj8iqmjj" src="https://github.com/user-attachments/assets/dcf6eb60-ff58-4fbb-83ec-83891cb60507" />
 
 # 🌿 lichen-collectives
 
