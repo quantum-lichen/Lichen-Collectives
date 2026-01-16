@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_qmjj8iqmjj8iqmjj" src="https://github.com/user-attachments/assets/dcf6eb60-ff58-4fbb-83ec-83891cb60507" />
+<img width="1024" height="1024" alt="logo poétique" src="https://github.com/user-attachments/assets/afa81992-70c3-48d4-8796-5c53c761b3b2" />
+
 
 # 🌿 lichen-collectives
 
