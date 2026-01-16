@@ -53,3 +53,6 @@ Que vous soyez développeur, philosophe, jardinier ou simplement humain :
 ---
 **Maintenu par le Collectif Lichen.**
 *Pacifistes. Actifs. Indomptables.*
+
+<img width="1024" height="1024" alt="Copilot_20251003_195547" src="https://github.com/user-attachments/assets/5f9606c6-89ca-4c69-9ad5-c2771672e17f" />
+
