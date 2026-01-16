@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="Lichen universe" src="https://github.com/user-attachments/assets/4c6c9176-15ea-4ac9-8095-b135615f48c7" />
+
+
 # 🌿 lichen-collectives
 
 ![Status](https://img.shields.io/badge/Status-Active%20Symbiosis-green)
